@@ -16,7 +16,6 @@ DowsedInSalt is copyright 2023, Solra Bizna, and licensed under either of:
 
 at your option.
 
-Unless you explicitly state otherwise, any contribution intentionally
-submitted for inclusion in the DowsedInSalt repository by you, as defined
-in the Apache-2.0 license, shall be dual licensed as above, without any
-additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the DowsedInSalt repository by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
+
+The "shikka shikka" sound is provided by AdamsArchive of freesound.org, see [Sounds From My Apartment » salt and pepper shakers](https://freesound.org/people/AdamsArchive/sounds/379261/). It is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/). The only alteration Solra Bizna has performed was to encode it into Ogg Vorbis format.
