@@ -1,0 +1,15 @@
+{
+    "type": "code",
+    "modid": "dowsedinsalt",
+    "name": "Dowsed In Salt",
+    "authors": ["Solra Bizna <solra@bizna.name>"],
+    "description": "Get drunk, sense salt.",
+    "version": "1.0.0",
+    "networkVersion": "1.0.0",
+    "requiredOnClient": false,
+    "requiredOnServer": false,
+    "dependencies": {
+        "game": "1.18.1",
+        "survival": "1.18.1"
+    }
+}
